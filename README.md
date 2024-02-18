@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Ankitaduhan05
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning SQL, Advanced Excel, R, Power BI
+- 💞️ I’m looking to collaborate on similar projects
+- 📫 How to reach me? Ankitaduhan001@gmail.com
+- ⚡ Fun fact: Dentist turned Analyst
